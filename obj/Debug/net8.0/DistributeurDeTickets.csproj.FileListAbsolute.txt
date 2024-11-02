@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\bin\Debug\net8.0\DistributeurDeTickets.exe
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\bin\Debug\net8.0\DistributeurDeTickets.deps.json
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\bin\Debug\net8.0\DistributeurDeTickets.runtimeconfig.json
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\bin\Debug\net8.0\DistributeurDeTickets.dll
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\bin\Debug\net8.0\DistributeurDeTickets.pdb
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.dll
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\refint\DistributeurDeTickets.dll
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.pdb
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\DistributeurDeTickets.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DistributeurDeTickets\DistributeurDeTickets\obj\Debug\net8.0\ref\DistributeurDeTickets.dll
